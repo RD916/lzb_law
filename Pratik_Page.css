@@ -1,0 +1,66 @@
+header{
+    padding-top: 35px;
+    padding-left: 40px;
+}
+hr{
+   border-top: 1px solid black;
+   border-bottom: 1px solid black
+    
+}
+
+.col{
+    padding-inline-start: 35px;
+}
+
+
+.divider {
+    color: lightgray;
+    padding-left: 40px;
+}
+
+ul{
+    padding-block-start: 2px;
+}
+
+.sidebar-container {
+    background-image: url('./nav_side_sub.jpg');
+    padding: 20px;
+    color: white
+    
+}
+
+.col-md-2{
+    position: relative;
+    /*  */
+}
+/* .overwrite{
+    position: absolute;
+  
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 35;
+} */
+
+.overwrite{
+    color: white;
+    padding: 10px;
+}
+
+.img-container {
+    margin-bottom: 20px; 
+}
+
+.page-summary{
+    margin-bottom: 50px;
+    padding-left: 20px;
+}
+
+.offset{
+    padding: 10px;
+}
+
+.seperators {
+    color: #ccc;
+    padding: 0 5px;
+}
