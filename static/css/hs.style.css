@@ -1,0 +1,44 @@
+.col-md-2{
+    background: linear-gradient(rgba(144,56,51),rgb(107,46,44));
+    color: white;
+ }
+ 
+ .subhead{
+    line-height: 0.5;
+    font-size: 14px;
+ }
+ 
+ .subhead2{
+    line-height: 0.5;
+    font-size: 14px;
+ }
+ 
+ .subtext{
+    text-indent: 20px;
+    line-height: 0.5;
+    font-size: 14px;
+ }
+ 
+ .subtext2{
+    line-height: 1.25;
+    font-size: 12px;
+    overflow-wrap: anywhere;
+ }
+ 
+ hr.new1{
+    border-color: white;
+    margin-top: -0.75em;
+    margin-bottom: 2.0em;
+ }
+
+.sidebar-container {
+    background-image: url('../images/nav_side_sub.jpg')
+}
+
+.secondnavbar{
+    background-image: url('../images/other_links_background.jpg')
+}
+.hero-image {
+    width: 65%;
+}
+
