@@ -2,10 +2,10 @@
    padding: 20px;
 }
 
-ul {
+ul.a {
    list-style-type: none;
    margin: 0;
-   padding: 0;
+   padding: 0px;
    overflow: hidden;
    border-top: 2px solid black;
    border-bottom: 2px solid black;
@@ -84,3 +84,11 @@ hr.new1{
     padding-left: 30px;
 }
 
+
+ul.b {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   border-top: 2px solid black;
+}
