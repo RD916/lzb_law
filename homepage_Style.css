@@ -1,0 +1,52 @@
+
+.container {
+   padding: 20px;
+}
+ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   border-top: 3px solid black;
+   }
+
+li {
+   float: left;
+}
+
+li a {
+   display: block;
+   color: #666;
+   text-align: center;
+   padding: 14px 20px;
+   text-decoration: none;
+}
+
+li a:hover:not(.active) {
+   background-color: #ddd;
+}
+
+.divider {
+   color: lightgrey;
+   padding: 30px;
+}
+
+.height100p
+{
+   height: 100% !important;
+}
+
+.header-border
+{
+   border-top: 3px solid black;
+   border-bottom: 3px solid black;
+}
+
+.container-fluid{
+   margin-top: 10px;
+}
+
+.col-md-3 {
+   background: linear-gradient(rgba(144,56,51),rgb(107,46,44));
+   color: white;
+}
