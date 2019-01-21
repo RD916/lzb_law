@@ -1,0 +1,95 @@
+.container {
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+.divider {
+    color: lightgrey;
+    padding: 30px;
+}
+
+.country {
+    border-bottom: 1px solid darkgray;
+}
+
+.sidebar {
+    background:linear-gradient(rgba(144,56,51),rgb(107,46,44));
+    color:white;
+    height: 300px;
+}
+
+hr.new1 {
+    border-color:white;
+    margin-top: -0.75em;
+    margin-bottom:2.0em;
+}
+
+.subhead {
+    line-height: 0.5;
+    font-size: 12px;
+    font: white;
+}
+
+.subtext2 {
+    line-height: 1.25;
+    font-size: 12px;
+    overflow-wrap: anywhere;
+}
+
+.row0 {
+    border: none;
+    padding-top: 5px;
+    padding-left: 30px;
+
+}
+.textrow {
+    margin-left: -10px;
+    margin-top: 50xp;
+}
+
+.row1 {
+    border: none;
+    margin-top: 50px;
+}
+.email {
+    -ms-text-underline-position: auto
+}
+.text0 {
+    border: none;
+    text-align: justify;
+    font-size: 15px;
+    line-height: 1;
+}
+
+.divider1 {
+    color: lightgray;
+    padding: 10px;
+
+}
+.subtext {
+    font: white;
+}
